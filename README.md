@@ -8,9 +8,9 @@
 - 💬 Ask me about *Python, C, C++, HTML, CSS, Django, OS, OOPS, DBMS, SQL, Machine Learning, Deep Learning.*(and some web series, cartoons 😅 and movies,:->)
 - 🏢 Currently working as an Python / Django Developer Intern at ATG.
 - 📫 How to reach me:
--                      **--e-mail: jayagupta752@gmail.com 
-                       --LinkedIn: https://www.linkedin.com/in/jaya-gupta-6a2494142/
-                       --GFG: https://auth.geeksforgeeks.org/user/jayagupta752/ 
-                       --Leetcode: https://leetcode.com/jayagupta752/** 
+       <br /> &ensp; &ensp; &ensp; &ensp; &ensp; **E-Mail: jayagupta752@gmail.com 
+     <br /> &ensp; &ensp; &ensp; &ensp; &ensp; LinkedIn: https://www.linkedin.com/in/jaya-gupta-6a2494142/
+     <br /> &ensp; &ensp; &ensp; &ensp; &ensp; GFG: https://auth.geeksforgeeks.org/user/jayagupta752/ 
+     <br /> &ensp; &ensp; &ensp; &ensp; &ensp; Leetcode: https://leetcode.com/jayagupta752/** 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: *The more you learn, the more you tend to think that you have learned nothing.*
