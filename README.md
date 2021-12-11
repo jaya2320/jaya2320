@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋, Jaya here.
 
-<!--
-**jaya2320/jaya2320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let me introduce myself:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently in *4th year* pursuing *Bachelors of Technology* from *HMR Institute of Technology and Management.*.
+- 🌱 I’m currently exploring my interest in Machine Learning and Deep Learning.
+- 👯 I’m looking to collaborate on challenging open source projects that matches my field of interest.
+- 💬 Ask me about *Python, C, C++, HTML, CSS, Django, OS, OOPS, DBMS, SQL, Machine Learning, Deep Learning.*(and some web series, cartoons 😅 and movies,:->)
+- 🏢 Currently working as an Python / Django Developer Intern at ATG.
+- 📫 How to reach me: **e-mail: jayagupta752@gmail.com
+                       LinkedIn: https://www.linkedin.com/in/jaya-gupta-6a2494142/
+                       GFG: https://auth.geeksforgeeks.org/user/jayagupta752/
+                       Leetcode: https://leetcode.com/jayagupta752/**
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: *The more you learn, the more you tend to think that you have learned nothing.*
