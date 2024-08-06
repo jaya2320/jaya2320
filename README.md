@@ -2,11 +2,8 @@
 
 ## Let me introduce myself:
 
-- 🔭 I’m currently in *4th year* pursuing *Bachelors of Technology* from *HMR Institute of Technology and Management.*.
-- 🌱 I’m currently exploring my interest in Machine Learning and Deep Learning.
-- 👯 I’m looking to collaborate on challenging open source projects that matches my field of interest.
-- 💬 Ask me about *Python, C, C++, HTML, CSS, Django, OS, OOPS, DBMS, SQL, Machine Learning, Deep Learning.*(and some web series, cartoons 😅 and movies,:->)
-- 🏢 Currently working as an Python / Django Developer Intern at ATG.
+- Results-oriented Software Developer with over 2 years of experience in developing scalable web applications using Kotlin, React, and Python. Skilled in microservices architecture and DevOps practices including Docker, Kafka, and Kubernetes. Adept at implementing Test-Driven Development (TDD) methodologies and conducting performance testing.
+
 - 📫 How to reach me:
        <br /> &ensp; &ensp; &ensp; &ensp; &ensp; **E-Mail: jayagupta752@gmail.com 
      <br /> &ensp; &ensp; &ensp; &ensp; &ensp; LinkedIn: https://www.linkedin.com/in/jaya-gupta-6a2494142/
